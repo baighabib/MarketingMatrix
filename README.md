@@ -37,11 +37,14 @@ This story-driven visualization brings together key insights by tracking industr
 
 Explore the story for deeper insights: https://public.tableau.com/app/profile/baighabib/viz/MarketingMatrix/Storytelling
 
-## Key Features 🔍
+# Key Features 🔍
 ✔ Conversion Performance Analysis - Identify high-performing industries and regions.
 ✔ Marketing Channel Benchmarking - Evaluate effectiveness across content marketing, email, social media, influencers, and search engines.
 ✔ Device-Based Engagement Mapping - Understand how different devices impact user engagement.
 ✔ Regional Interaction Analysis - Compare audience engagement rates across various industries and continents.
 
-## Conclusion
+# License
+This project is licensed under the **MIT License**. See the LICENSE.txt file for details.
+
+# Conclusion
 The Marketing Matrix dashboard is a powerful tool for understanding digital marketing performance and optimizing strategies for better engagement and conversion. By leveraging this data, businesses can make informed decisions to improve their campaign efficiency and return on investment (ROI).
