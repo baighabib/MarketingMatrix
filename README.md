@@ -39,8 +39,11 @@ Explore the story for deeper insights: https://public.tableau.com/app/profile/ba
 
 # Key Features 🔍
 ✔ Conversion Performance Analysis - Identify high-performing industries and regions.
+
 ✔ Marketing Channel Benchmarking - Evaluate effectiveness across content marketing, email, social media, influencers, and search engines.
+
 ✔ Device-Based Engagement Mapping - Understand how different devices impact user engagement.
+
 ✔ Regional Interaction Analysis - Compare audience engagement rates across various industries and continents.
 
 # License
